@@ -19,7 +19,7 @@ Key features:
 *Styling:* CSS3, CSS Modules, CSS Variables, Flexbox & Grid, CSS Animations  
 *Build Tools & Dev:* Vite, PostCSS, JavaScript (ES6+), JSX  
 
-## Screenshots/demo video link :- 
+## Screenshots/demo video link :- https://drive.google.com/file/d/1i6OjjyVSmqx5lwk7FESP0eWbqTP26xMM/view?usp=drivesdk
 
 ## Deployed Project :- https://mgx-khgihmka22.mgx.world
 
